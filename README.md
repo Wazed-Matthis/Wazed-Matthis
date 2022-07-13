@@ -22,7 +22,9 @@
 <p>
 // None
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wazed-Matthis&show_icons=true&theme=dark" />
 
 </div>
+
 
 ![](https://komarev.com/ghpvc/?username=Wazed-Matthis)
