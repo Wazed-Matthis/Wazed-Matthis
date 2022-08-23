@@ -6,9 +6,6 @@
   
 <h3>Hi there! 👋🤓</h3><h4><br>I'm Wazed/Matthis<br>a Software Engineer, <br>Creator and Cybsecurity Researcher.</h4>
 
-
-<h4><a href="https://wazed.wtf">Website</a> </h4>
-
 <hr width="50%" style="height:5px;">
 
   <h3> My favorite programming languages are:</h3>
