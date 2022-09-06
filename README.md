@@ -17,7 +17,7 @@
 <h3>💼 What & Where I am currently working at/on/as</h3>
 
 <p>
-<a href="labymod.net">LabyMod</a>
+<a href="https://www.labymod.net">LabyMod</a>
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wazed-Matthis&show_icons=true&theme=dark" />
 
